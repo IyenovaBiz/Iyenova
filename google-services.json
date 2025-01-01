@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "484678165574",
+    "project_id": "blinker-nigeria",
+    "storage_bucket": "blinker-nigeria.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:484678165574:android:7ed27a62d7f11d6e981647",
+        "android_client_info": {
+          "package_name": "com.app.blinkers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "484678165574-7lijmsq4jo2tda5b6bmbhumst0buaius.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.blinkers",
+            "certificate_hash": "506210a92c7354fc68e06bf2a0589eb9ca775e5f"
+          }
+        },
+        {
+          "client_id": "484678165574-fsenn49996cu9t5tl0j7ridm77etggs0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.blinkers",
+            "certificate_hash": "969b1a5075014fcfcd5362968499e7452f8bd7a8"
+          }
+        },
+        {
+          "client_id": "484678165574-qas9sitk8f1t6a80sjn4t9s0iqf1nhsm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.blinkers",
+            "certificate_hash": "ee55636e43028c79a771d35236669acd22b2e7c8"
+          }
+        },
+        {
+          "client_id": "484678165574-vve5pivu98l38rk5ko1j8jebdtm1i5nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-qXQ_Mia8eJ293jwE1gfh0r0g5SJc18M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "484678165574-vve5pivu98l38rk5ko1j8jebdtm1i5nv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "484678165574-m5rmahn4a8476i8o1u9k0edfmp88dov9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.blinker"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
